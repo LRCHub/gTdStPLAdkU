@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Toxic",
+  "base_artist": "BoyWithUke",
+  "createdAt": "2025-12-08T01:06:23.348914Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ghosts (Toxic Avenger Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/01_Ghosts_(Toxic_Avenger_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Toxic",
+      "artist": "jonatan leandoer96",
+      "has_synced": true,
+      "path": "select/02_Toxic_jonatan_leandoer96.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Toxic",
+      "artist": "jonatan leandoer127",
+      "has_synced": true,
+      "path": "select/03_Toxic_jonatan_leandoer127.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TOXIC BOY",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/04_TOXIC_BOY_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sirens of Your Toxic Spirit",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/05_Sirens_of_Your_Toxic_Spirit_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jailbird - The Toxic Trio Stay Free Mix",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/06_Jailbird_-_The_Toxic_Trio_Stay_Free_Mix_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Toxic (with Lil Durk)",
+      "artist": "Summer Walker feat. Lil Durk",
+      "has_synced": true,
+      "path": "select/07_Toxic_(with_Lil_Durk)_Summer_Walker_feat._Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Toxic (feat. Lil Durk)",
+      "artist": "Summer Walker",
+      "has_synced": true,
+      "path": "select/08_Toxic_(feat._Lil_Durk)_Summer_Walker.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ghosts (Toxic Avenger Mix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/09_Ghosts_(Toxic_Avenger_Mix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Toxic",
+      "artist": "Ashnikko",
+      "has_synced": true,
+      "path": "select/10_Toxic_Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mora VS. the Toxic Avenger",
+      "artist": "Sonny",
+      "has_synced": true,
+      "path": "select/11_Mora_VS._the_Toxic_Avenger_Sonny.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mora vs. The Toxic Avenger",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/12_Mora_vs._The_Toxic_Avenger_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Toxic Girl",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/13_Toxic_Girl_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Toxic Girl - Monte Carlo 1963 Version",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/14_Toxic_Girl_-_Monte_Carlo_1963_Version_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Toxic",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Melinda Doolittle",
+      "has_synced": true,
+      "path": "select/15_Toxic_Scott_Bradlee's_Postmodern_Jukebox_feat._Melinda_Doolittle.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Toxic",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/16_Toxic_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Toxic - Karaoke",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/17_Toxic_-_Karaoke_Scott_Bradlee_&_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Toxic",
+      "artist": "BoyWithUke",
+      "has_synced": false,
+      "path": "select/pl_01_Toxic_BoyWithUke.txt"
+    }
+  ]
+}
